@@ -1,5 +1,5 @@
 # PatchCore anomaly detection
-Unofficial implementation of PatchCore(new SOTA) anomaly detection model
+Unofficial implementation of PatchCore anomaly detection model for AML PoliTo Course
 
 
 Original Paper : 
